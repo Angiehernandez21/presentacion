@@ -1,0 +1,36 @@
+body{
+    background-image: url(imagen.jpg);
+}
+h1.Nombre{
+    color: rgb(15, 15, 15);
+    font-size: 50px;
+    text-align: center;
+ }
+ h2.Gustos{
+    color: rgb(252, 252, 252);
+ }
+ p.Pais{
+    color: aliceblue;
+    font-size: 25px;
+ }
+ li{
+    color: aliceblue;
+ }
+
+ .Bandera{
+    border: 100px; 
+    border-radius: 30px;
+ }
+ .Profesion{
+    font-size: 20px;
+ }
+ .razones{
+    font-size: 25px;
+ }
+ .razones2{
+    font-size: 40px;
+ }
+ .Pais2{
+    font-size: 40px;
+    text-align: center;
+ }
